@@ -1,2 +1,2 @@
 # blockchain_roadmap
-<img src="https://raw.github.com/Bkucera/svg/master/down.svg?sanitize=true"/>
+<img src="https://raw.githubusercontent.com/satyacasm/blockchain_roadmap/main/roadmap.svg?sanitize=true"/>
